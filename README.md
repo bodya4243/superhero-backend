@@ -20,6 +20,6 @@ This API provides endpoints to create, update, and fetch superheroes.
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/superhero-backend.git
+git clone https://github.com/bodya4243/superhero-backend.git
 cd superhero-backend
 npm install
